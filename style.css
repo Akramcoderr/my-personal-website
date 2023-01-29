@@ -1,13 +1,19 @@
 .highlight-word{
-    color: pink;
+    color: orangered;
 }
 .half-width{
-    width: 40%;
+    width: 300%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
     
 }
 p{
-    color: green;
+    color: grey;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 35px;
 }
